@@ -46,6 +46,7 @@ export default function Menu(props) {
         </div>
     );
 }
+{}
 
 function Exercise(option) {
     const [katakana, setKatakana] = useState([
